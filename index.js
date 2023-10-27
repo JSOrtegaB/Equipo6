@@ -72,13 +72,6 @@ const deleteAll = async () => {
     });
 };
 
-
-
-
-
-
-
-
 function askForOption() {
     inquirer
         .prompt([
